@@ -1,0 +1,12 @@
+.dashboard-product-preview {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 756px) {
+    .dashboard-product-preview{
+        height: 100vh;
+        width: 100vh;
+    }
+}
