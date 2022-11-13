@@ -23,7 +23,7 @@ function CheckoutForm() {
     if (!stripe || !elements || user.cart.count <= 0) return
     setPaying(true)
     const { client_secret } = await fetch(
-      "http://ecommerce-backend-1jkn.onrender.com/api.stripe.com/create-payment",
+      "https://ecommerce-backend-1jkn.onrender.com/api.stripe.com/create-payment",
       {
         method: "POST",
         headers: {
