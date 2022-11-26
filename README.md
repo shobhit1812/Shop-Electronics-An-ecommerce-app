@@ -53,15 +53,15 @@ $ npm start
 
 <img align="center" height="300" src="./screenshots/Screenshot (54).png"/>
 
-### Job Portal
+### Products
 
 <img align="center" height="300" src="./screenshots/Screenshot (55).png"/>
 
-### Courses Portal
+### Product Description
 
 <img align="center" height="300" src="./screenshots/Screenshot (56).png"/>
 
-### structured roadmap
+### Add to cart
 
 <img align="center" height="300" src="./screenshots/Screenshot (57).png"/>
 
